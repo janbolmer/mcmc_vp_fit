@@ -1,1 +1,1 @@
-# mcmc_vp_fit
+# library for fitting spectra with Voigt profiles
